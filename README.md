@@ -1,0 +1,2 @@
+# RandomSentencesGeneratorByTetrik
+console application generating random sentences
