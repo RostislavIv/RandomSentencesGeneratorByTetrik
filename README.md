@@ -24,7 +24,8 @@ Nouns = {"stones", "cake", "apple", "laptop", "bikes"}
    **Details** = {"near the river", "at home", "in the park"}
     
 **Link to the Source Code**
-https://github.com/RostislavIv/RandomSentencesGeneratorByTetrik/blob/main/RandomSentencesGenerator/Program.cs
+
+https://github.com/RostislavIv/RandomSentencesGeneratorByTetrik/blob/main/RandomSentencesGenerator/RandomSentencesGenerator.cs
 
 **Screenshots**
 
