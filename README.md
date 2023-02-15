@@ -9,17 +9,25 @@ The **Generator** is based on following model:
   
   **Who** = `Name` from `Place`
     
-Names = {}
+Names = {"Peter", "Michell", "Jane", "Steve"}
       
-Places = {}
+Places = {"Sofia", "Plovdiv", "Varna", "Burgas"}
       
    **Action** = `Adverb` + `Verb` + `Noun`
     
-Adverbs = {}
+Adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly"}
       
-Verbs = {}
+Verbs = {"eats", "holds", "sees", "plays with", "brings"}
       
-Nouns = {}
+Nouns = {"stones", "cake", "apple", "laptop", "bikes"}
       
-   **Details** = {}
+   **Details** = {"near the river", "at home", "in the park"}
     
+**Link to the Source Code**
+https://github.com/RostislavIv/RandomSentencesGeneratorByTetrik/blob/main/RandomSentencesGenerator/Program.cs
+
+**Screenshots**
+
+![image](https://user-images.githubusercontent.com/122882308/218947323-b9537689-8e0f-418b-b5a3-9f19d09304b5.png)
+
+
